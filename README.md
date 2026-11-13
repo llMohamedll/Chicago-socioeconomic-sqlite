@@ -1,4 +1,4 @@
-# Project 01: Chicago Socioeconomic SQLite Analysis
+Chicago Socioeconomic SQLite Analysis
 
 ## Overview
 This project demonstrates SQL database operations using Python, including database creation, complex queries, joins, aggregations, and integration with pandas for analysis.
